@@ -12,7 +12,7 @@ readers who can't afford ambiguity comes from.
 **Selected work**
 
 - [Portfolio](https://leslieamadi.github.io) — API references, SDK quickstarts, process documentation
-- [Relay Health API docs](https://leslieamadi.github.io/relay-health-docs/) a complete documentation site built from scratch: OpenAPI 3.1, Diátaxis structure, broken-link enforcement in CI, deployed with GitHub Actions
+- [Relay Health API docs](https://leslieamadi.github.io/relay-health-docs/) — a complete documentation site built from scratch: OpenAPI 3.1, Diátaxis structure, broken-link enforcement in CI, deployed with GitHub Actions
 
 **Working with** Markdown · Docusaurus · OpenAPI · Git · GitHub Actions · Swift · Kotlin
 
